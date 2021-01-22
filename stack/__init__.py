@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding:utf-8
 """
-# @Time     : 2020-05-29 11:07
+# @Time     : 2020-12-23 16:47
 # @Author   : Zhangyu
 # @Email    : zhangycqupt@163.com
 # @File     : __init__.py.py
@@ -10,5 +10,6 @@
 """
 
 """
-fibonacci数列的动态规划算法
+后缀表达式也叫逆波兰表达式
+
 """

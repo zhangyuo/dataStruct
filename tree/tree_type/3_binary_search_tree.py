@@ -28,7 +28,7 @@
 二叉搜索树的结构与值的插入顺序有关。见README.md "二叉树插入顺序`"
 """
 
-from tree.tree_node import TreeNode
+from tree.tree_build.tree_node import TreeNode
 
 
 class BinSerTree(object):

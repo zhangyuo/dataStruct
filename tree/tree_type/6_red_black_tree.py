@@ -47,7 +47,6 @@ nginx中的Timer管理
 
 """
 
-from tree.tree_node import TreeNode
 
 class RBTree(object):
     pass

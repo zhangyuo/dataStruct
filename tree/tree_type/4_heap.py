@@ -10,7 +10,7 @@
 """
 
 """
-堆：又被为优先队列(priority queue)。尽管名为优先队列，但堆并不是队列。
+堆：又被为优先队列(priority queue_1)。尽管名为优先队列，但堆并不是队列。
 结构见README.md "堆示例"
 
 堆定义:
@@ -58,9 +58,9 @@ def heapify(arr, i, heap_size):
     """
     # 左节点的位置
     p = 2 * i + 1
-    while p <= heap_size:
+    while p < heap_size:
         # 如果右节点存在
-        if p + 1 <= heap_size:
+        if p + 1 < heap_size:
             # 选出左右节点中 较大的与父节点比较
             p = p if arr[p] > arr[p + 1] else p + 1
         # 当父节点较小时 交换
@@ -111,6 +111,6 @@ if __name__ == '__main__':
     for j in range(len(arr) - 1, 0, -1):  # j=5, 4, 3, 2, 1
         # 交换最大值至堆最后一个叶子节点
         arr[0], arr[j] = arr[j], arr[0]
-        heapify(arr, 0, j - 1)
+        heapify(arr, 0, j)
     print("堆排序-大顶堆之从小到大:")
     print(arr)

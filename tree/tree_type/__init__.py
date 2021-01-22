@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding:utf-8
 """
-# @Time     : 2020-05-29 11:07
+# @Time     : 2020-12-25 10:34
 # @Author   : Zhangyu
 # @Email    : zhangycqupt@163.com
 # @File     : __init__.py.py
@@ -9,6 +9,3 @@
 # @Desc     :
 """
 
-"""
-fibonacci数列的动态规划算法
-"""

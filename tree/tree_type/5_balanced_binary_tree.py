@@ -36,7 +36,7 @@ AVL树可以使时间复杂度：
 O(log n)
 """
 
-from tree.tree_node import TreeNode
+from tree.tree_build.tree_node import TreeNode
 
 class AvlTree(object):
 
