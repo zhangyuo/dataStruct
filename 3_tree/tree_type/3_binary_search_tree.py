@@ -90,7 +90,7 @@ class BinSerTree(object):
 
     def inorder_stack(self, node):
         """
-        二叉搜索树：中序遍历-堆栈实现/stack/优先队列（一种数据项按序排列的数据结构，只能在一端(称为栈顶(top))对数据项进行插入和删除，
+        二叉搜索树：中序遍历-堆栈实现/6_stack/优先队列（一种数据项按序排列的数据结构，只能在一端(称为栈顶(top))对数据项进行插入和删除，
         严格按照“先进后出”的原则存取）
         :param node:
         :return:

@@ -101,8 +101,8 @@ class BinaryTree(object):
                     q.append(pop_node.left)
                     q.append(pop_node.right)
     """
-    list.pop() 弹出最后一个元素，先进后出-栈-stack
-    list.pop(0) 弹出第一个元素，先进先出-队列-queue_1
+    2_list.pop() 弹出最后一个元素，先进后出-栈-6_stack
+    2_list.pop(0) 弹出第一个元素，先进先出-队列-4_queue
     """
 
     def delete(self, item):
