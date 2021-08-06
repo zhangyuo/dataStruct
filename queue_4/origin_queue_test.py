@@ -12,7 +12,7 @@ from multiprocessing import Queue
 # from queue import Queue
 
 """
-像栈一样，队列（4_queue）也是表，然后，使用队列时插入在一端进行而删除则在另一端进行。
+像栈一样，队列（queue_4）也是表，然后，使用队列时插入在一端进行而删除则在另一端进行。
 队列的基本操作是Enqueue（入队），它是在表的末端（叫做队尾（rear））插入一个元素，还有Dequeue（出队），它是删除在表的开头（叫做队头（front））的元素。
                       ________
                      |        |

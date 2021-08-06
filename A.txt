@@ -1,0 +1,155 @@
+protein name
+26S proteasome non-ATPase regulatory subunit 3
+72 kDa type IV collagenase
+78 kDa glucose-regulated protein
+Acetylcholinesterase
+Acetyl-CoA carboxylase 1
+Activator of 90 kDa heat shock protein ATPase homolog 1
+Aldose reductase
+Amine oxidase [flavin-containing] B
+Androgen receptor
+Apoptosis regulator BAX
+Apoptosis regulator Bcl-2
+Arachidonate 5-lipoxygenase
+Aryl hydrocarbon receptor
+ATP-binding cassette sub-family G member 2
+Baculoviral IAP repeat-containing protein 5
+Bcl-2-like protein 1
+Beta-2 adrenergic receptor
+Caspase-3
+Caspase-8
+Caspase-9
+Cathepsin D
+Caveolin-1
+C-C motif chemokine 2
+CD40 ligand
+Cell division control protein 2 homolog
+Cellular tumor antigen p53
+Claudin-4
+Coagulation factor VII
+Coagulation factor Xa
+Collagen alpha-1(I) chain
+Collagen alpha-1(III) chain
+C-reactive protein
+C-X-C motif chemokine 10
+C-X-C motif chemokine 11
+C-X-C motif chemokine 2
+Cyclin-dependent kinase inhibitor 1
+Cyclin-dependent kinase inhibitor 2A, isoforms 1/2/3
+Cytochrome P450 1A1
+Cytochrome P450 1A2
+Cytochrome P450 1B1
+Cytochrome P450 3A4
+DDB1- and CUL4-associated factor 5
+Dipeptidyl peptidase IV
+DNA gyrase subunit B
+DNA topoisomerase 1
+DNA topoisomerase 2-alpha
+DNA topoisomerase II
+Dual oxidase 2
+Epidermal growth factor receptor
+E-selectin
+Estrogen sulfotransferase
+ETS domain-containing protein Elk-1
+Eukaryotic translation initiation factor 6
+G1/S-specific cyclin-D1
+G2/mitotic-specific cyclin-B1
+Gamma-aminobutyric acid receptor subunit alpha-1
+Gap junction alpha-1 protein
+Glutathione S-transferase Mu 1
+Glutathione S-transferase Mu 2
+Glutathione S-transferase P
+Heat shock factor protein 1
+Heat shock protein beta-1
+Heat shock protein HSP 90
+Heme oxygenase 1
+Hexokinase-2
+Homeobox protein Nkx-3.1
+Hyaluronan synthase 2
+Hypoxia-inducible factor 1-alpha
+Inhibitor of nuclear factor kappa-B kinase subunit alpha
+Insulin receptor
+Insulin-like growth factor II
+Insulin-like growth factor-binding protein 3
+Intercellular adhesion molecule 1
+Interferon gamma
+Interferon regulatory factor 1
+Interleukin-1 alpha
+Interleukin-1 beta
+Interleukin-10
+Interleukin-2
+Interleukin-6
+Interleukin-8
+Interstitial collagenase
+Maltase-glucoamylase, intestinal
+Matrix metalloproteinase-9
+Mitogen-activated protein kinase 1
+mRNA of PKA Catalytic Subunit C-alpha
+Myc proto-oncogene protein
+Myeloperoxidase
+NAD(P)H dehydrogenase [quinone] 1
+NADPH--cytochrome P450 reductase
+Neutrophil cytosol factor 1
+NF-kappa-B inhibitor alpha
+Nitric oxide synthase, endothelial
+Nitric-oxide synthase, endothelial
+Nuclear factor erythroid 2-related factor 2
+Nuclear receptor coactivator 2
+Nuclear receptor subfamily 1 group I member 2
+Nuclear receptor subfamily 1 group I member 3
+Ornithine decarboxylase
+Osteopontin
+Peroxidase C1A
+Peroxisome proliferator activated receptor gamma
+Peroxisome proliferator-activated receptor alpha
+Peroxisome proliferator-activated receptor delta
+Peroxisome proliferator-activated receptor gamma
+Phosphatidylinositol-3,4,5-trisphosphate 3-phosphatase and dual-specificity protein phosphatase PTEN
+Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit, gamma isoform
+Plasminogen activator inhibitor 1
+Poly [ADP-ribose] polymerase 1
+Potassium voltage-gated channel subfamily H member 2
+Probable E3 ubiquitin-protein ligase HERC5
+Procollagen C-endopeptidase enhancer 1
+Pro-epidermal growth factor
+Prostaglandin E2 receptor EP3 subtype
+Prostaglandin G/H synthase 1
+Prostaglandin G/H synthase 2
+Prostatic acid phosphatase
+Protein CBFA2T1
+Protein kinase C alpha type
+Protein kinase C beta type
+Proto-oncogene c-Fos
+Puromycin-sensitive aminopeptidase
+RAC-alpha serine/threonine-protein kinase
+RAF proto-oncogene serine/threonine-protein kinase
+Ras association domain-containing protein 1
+Ras GTPase-activating protein 1
+Receptor tyrosine-protein kinase erbB-2
+Receptor tyrosine-protein kinase erbB-3
+Retinoblastoma-associated protein
+Retinoic acid receptor RXR-alpha
+Runt-related transcription factor 2
+Serine/threonine-protein kinase Chk2
+Serum paraoxonase/arylesterase 1
+Signal transducer and activator of transcription 1-alpha/beta
+Sodium channel protein type 5 subunit alpha
+Solute carrier family 2, facilitated glucose transporter member 4
+Stromelysin-1
+Superoxide dismutase [Cu-Zn]
+Thrombin
+Thrombomodulin
+Tissue factor
+Tissue-type plasminogen activator
+Transcription factor AP-1
+Transcription factor E2F1
+Transcription factor E2F2
+Transcription factor p65
+Transforming growth factor beta-1
+Trypsin-1
+Tumor necrosis factor
+Type I iodothyronine deiodinase
+Urokinase-type plasminogen activator
+Vascular cell adhesion protein 1
+Vascular endothelial growth factor A
+Xanthine dehydrogenase/oxidase

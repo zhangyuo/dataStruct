@@ -67,7 +67,7 @@ k为深度(1<=k<=n)，则结点总数最大值为2**k-1,当达到最大值的时
 大O根号N
 """
 
-from tree.tree_build.tree_node import TreeNode
+from tree_3.tree_build.tree_node import TreeNode
 
 """
 创建一个 BinaryTree 的类，定义根节点
@@ -101,8 +101,8 @@ class BinaryTree(object):
                     q.append(pop_node.left)
                     q.append(pop_node.right)
     """
-    2_list.pop() 弹出最后一个元素，先进后出-栈-6_stack
-    2_list.pop(0) 弹出第一个元素，先进先出-队列-4_queue
+    list_2.pop() 弹出最后一个元素，先进后出-栈-stack_6
+    list_2.pop(0) 弹出第一个元素，先进先出-队列-queue_4
     """
 
     def delete(self, item):

@@ -331,7 +331,7 @@ def bucket_sort(array):
 if __name__ == '__main__':
     array = [3, 54, 18, 14, 42, 111, 67, 6, 19, 100]
     import numpy as np
-    array = list(np.random.randint(0, 100000, 1000000))
+    # array = list(np.random.randint(0, 100000, 1000000))
     array_1 = array.copy()
     array_2 = array.copy()
     array_3 = array.copy()
@@ -344,7 +344,7 @@ if __name__ == '__main__':
     # print(bubble_sort(array_2))
     # print(select_sort(array_3))
     # print(shell_sort(array_4))
-    # print(heap_sort(array_5))
+    print(heap_sort(array_5))
     # print(merge_sort(array_6))
     # print(quick_sort(array_7))
     # print(bucket_sort(array_8))
@@ -356,4 +356,4 @@ if __name__ == '__main__':
     # heap_sort(array_5)
     # merge_sort(array_6)
     # quick_sort(array_7)
-    bucket_sort(array_8)
+    # bucket_sort(array_8)

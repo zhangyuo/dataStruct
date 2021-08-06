@@ -4,13 +4,13 @@
 # @Time     : 2020-02-12 11:58
 # @Author   : Zhangyu
 # @Email    : zhangycqupt@163.com
-# @File     : 5_heap.py
+# @File     : heap_5.py
 # @Software : PyCharm
 # @Desc     :
 """
 
 """
-堆：又被为优先队列(priority 4_queue)。尽管名为优先队列，但堆并不是队列。
+堆：又被为优先队列(priority queue_4)。尽管名为优先队列，但堆并不是队列。
 结构见README.md "堆示例"
 
 堆定义:
