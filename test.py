@@ -11,6 +11,7 @@
 
 import sys
 
+
 print('input A file path:', sys.argv[1])
 print('input B file path:', sys.argv[2])
 
